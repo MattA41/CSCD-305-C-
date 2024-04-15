@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Point2D"
+    "\\Point2D",
+    "\\Point3D"
   ],
-  "SelectedNode": "\\Point3D.h",
+  "SelectedNode": "\\Point2D\\main.cpp",
   "PreviewInSolutionExplorer": false
 }

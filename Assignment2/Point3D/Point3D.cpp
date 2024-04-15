@@ -45,6 +45,27 @@ Point3D& Point3D::addPoints(const Point3D& p)
 	return (*this);
 }
 
+Point3D& Point3D::subtractPoints(const Point3D& p)
+{
+	this->x = (this->x - p.x);
+	this->y = (this->y - p.y);
+	this->z = (this->z - p.z);
+	return (*this);
+}
+
+double Point3D::multiplyPoints(const Point3D& p)
+{
+	
+}
+
+double Point3D::squarePoint()
+{
+	
+}
+
+
+
+
 
 
 
