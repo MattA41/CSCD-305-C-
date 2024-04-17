@@ -42,8 +42,7 @@
               "RelativeToolTip": "Point3D\\Sphere.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-15T20:24:13.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T20:24:13.358Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "Point3D\\Ray.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-15T20:24:09.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T20:24:09.876Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "Point3D\\Point3D.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-15T20:24:08.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T20:24:08.82Z"
             },
             {
               "$type": "Document",
@@ -79,7 +76,7 @@
               "RelativeDocumentMoniker": "Point3D\\Point3D.cpp",
               "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment2\\Point3D\\Point3D.cpp",
               "RelativeToolTip": "Point3D\\Point3D.cpp",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAD4AAAABAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-15T20:24:04.673Z",
               "EditorCaption": ""
@@ -94,8 +91,7 @@
               "RelativeToolTip": "Point3D\\intersection_tester.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-15T20:24:01.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T20:24:01.395Z"
             }
           ]
         }

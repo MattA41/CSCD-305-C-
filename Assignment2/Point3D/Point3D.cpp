@@ -55,12 +55,14 @@ Point3D& Point3D::subtractPoints(const Point3D& p)
 
 double Point3D::multiplyPoints(const Point3D& p)
 {
-	
+	double sum = (this->x * p.x )+ (this->y * p.y) + (this->z * p.z);
+	return sum;
 }
 
 double Point3D::squarePoint()
 {
-	
+	double sum = (this->x * this->x) + (this->y * this->y) + (this->z * this->z);
+	return sum;
 }
 
 
