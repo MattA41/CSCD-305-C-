@@ -6,13 +6,14 @@ class Ray
 {
 	Point3D origin, direction;
 public:
+	friend class Sphere;
 	Ray();
 	Ray(Point3D& o, Point3D& d);
-	Point3D& getOrigin() const;
-	Point3D& getDirection() const;
+	Point3D getOrigin() const;
+	Point3D getDirection() const;
 	Ray& setOrigin(Point3D& o);
 	Ray& setDirection(Point3D& d);
-	void checkInstersection(Sphere& s);
+	void checkIntersection(Sphere& s);
 };
 
 #endif

@@ -1,4 +1,5 @@
 /* Test file for Assignment 2 */
+// I used the microsoft compiler to compile this code
 
 #include <iostream>
 #include "Point3D.h"
