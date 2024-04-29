@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF07F13C-D6D9-4CFC-9A7B-72629F6D0759}|Assignment3 c\u002B\u002B.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\Color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF07F13C-D6D9-4CFC-9A7B-72629F6D0759}|Assignment3 c\u002B\u002B.vcxproj|solutionrelative:Color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF07F13C-D6D9-4CFC-9A7B-72629F6D0759}|Assignment3 c\u002B\u002B.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\ColorBlob.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF07F13C-D6D9-4CFC-9A7B-72629F6D0759}|Assignment3 c\u002B\u002B.vcxproj|solutionrelative:ColorBlob.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF07F13C-D6D9-4CFC-9A7B-72629F6D0759}|Assignment3 c\u002B\u002B.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\colorblob_tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF07F13C-D6D9-4CFC-9A7B-72629F6D0759}|Assignment3 c\u002B\u002B.vcxproj|solutionrelative:colorblob_tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Color.h",
+              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\Color.h",
+              "RelativeDocumentMoniker": "Color.h",
+              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\Color.h",
+              "RelativeToolTip": "Color.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T20:09:31.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColorBlob.h",
+              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\ColorBlob.h",
+              "RelativeDocumentMoniker": "ColorBlob.h",
+              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\ColorBlob.h",
+              "RelativeToolTip": "ColorBlob.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T20:08:21.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "colorblob_tester.cpp",
+              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\colorblob_tester.cpp",
+              "RelativeDocumentMoniker": "colorblob_tester.cpp",
+              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\colorblob_tester.cpp",
+              "RelativeToolTip": "colorblob_tester.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T20:07:53.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
