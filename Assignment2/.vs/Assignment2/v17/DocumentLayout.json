@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32A7A57C-6B79-4316-8A3D-6EB19F42F740}|Assignment2.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment2\\point3d\\intersection_tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{32A7A57C-6B79-4316-8A3D-6EB19F42F740}|Assignment2.vcxproj|solutionrelative:point3d\\intersection_tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment2\\Point3D\\intersection_tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Point3D\\intersection_tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32A7A57C-6B79-4316-8A3D-6EB19F42F740}|Assignment2.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment2\\Point3D\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{32A7A57C-6B79-4316-8A3D-6EB19F42F740}|Assignment2.vcxproj|solutionrelative:Point3D\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment2\\Point3D\\Point3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Point3D\\Point3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32A7A57C-6B79-4316-8A3D-6EB19F42F740}|Assignment2.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment2\\Point3D\\Ray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{32A7A57C-6B79-4316-8A3D-6EB19F42F740}|Assignment2.vcxproj|solutionrelative:Point3D\\Ray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment2\\Point3D\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Point3D\\Sphere.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32A7A57C-6B79-4316-8A3D-6EB19F42F740}|Assignment2.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment2\\Point3D\\Point3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{32A7A57C-6B79-4316-8A3D-6EB19F42F740}|Assignment2.vcxproj|solutionrelative:Point3D\\Point3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment2\\Point3D\\Ray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Point3D\\Ray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32A7A57C-6B79-4316-8A3D-6EB19F42F740}|Assignment2.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment2\\Point3D\\Ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{32A7A57C-6B79-4316-8A3D-6EB19F42F740}|Assignment2.vcxproj|solutionrelative:Point3D\\Ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment2\\Point3D\\Ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Point3D\\Ray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32A7A57C-6B79-4316-8A3D-6EB19F42F740}|Assignment2.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment2\\Point3D\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{32A7A57C-6B79-4316-8A3D-6EB19F42F740}|Assignment2.vcxproj|solutionrelative:Point3D\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment2\\Point3D\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Point3D\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Point3D.cpp",
               "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment2\\Point3D\\Point3D.cpp",
               "RelativeDocumentMoniker": "Point3D\\Point3D.cpp",
@@ -46,12 +46,11 @@
               "RelativeToolTip": "Point3D\\Point3D.cpp",
               "ViewState": "AQIAACMAAAAAAAAAAAASwDcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-17T22:28:40.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T22:28:40.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Sphere.cpp",
               "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment2\\Point3D\\Sphere.cpp",
               "RelativeDocumentMoniker": "Point3D\\Sphere.cpp",
@@ -59,12 +58,11 @@
               "RelativeToolTip": "Point3D\\Sphere.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-17T22:28:39.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T22:28:39.424Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Ray.cpp",
               "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment2\\Point3D\\Ray.cpp",
               "RelativeDocumentMoniker": "Point3D\\Ray.cpp",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "Point3D\\Ray.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-17T22:28:36.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-17T22:28:36.042Z"
             },
             {
               "$type": "Document",

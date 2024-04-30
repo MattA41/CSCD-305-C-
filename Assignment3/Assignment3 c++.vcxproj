@@ -119,6 +119,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Color.cpp" />
     <ClCompile Include="colorblob_tester.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Point3D"
   ],
-  "SelectedNode": "\\Assignment2.sln",
+  "SelectedNode": "\\Point3D\\intersection_tester.cpp",
   "PreviewInSolutionExplorer": false
 }
