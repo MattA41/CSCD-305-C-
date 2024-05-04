@@ -1,9 +1,13 @@
 #include <iostream>
 #include "ColorBlob.h"
+#include "Color.h"
 
 using namespace std;
 
 int main() {
+
+	Color c(0.5, 0.4, 0.45); // creates a color with red, green, and blue components
+	cout << c << endl;
 	ColorBlob cBlob(2, 2, Color());     // creates with the default color, width, and height 
 	cout << "cBlob = " << endl;
 	cout << cBlob << endl;      //prints the ColorBlob
@@ -35,6 +39,5 @@ int main() {
 	ColorBlob cBlobSeven = std::move(cBlobOne);         //moves cBlobOne to cBlobSeven
 	cout << "cBlobSeven= " << endl;
 	cout << cBlobSeven << endl;
-
 	return 0;
 }

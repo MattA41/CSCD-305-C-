@@ -1,0 +1,6 @@
+﻿  Color.cpp
+  ColorBlob.cpp
+  colorblob_tester.cpp
+  Generating Code...
+C:\Users\matts\Documents\College\CSCD_305_C++Programing\CSCD-305-CPlusPlus\Assignment3\Color.cpp(52,1): warning C4715: 'Color::operator=': not all control paths return a value
+  Assignment3 c++.vcxproj -> C:\Users\matts\Documents\College\CSCD_305_C++Programing\CSCD-305-CPlusPlus\Assignment3\x64\Debug\Assignment3 c++.exe

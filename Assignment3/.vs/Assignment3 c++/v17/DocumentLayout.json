@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF07F13C-D6D9-4CFC-9A7B-72629F6D0759}|Assignment3 c\u002B\u002B.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\Color.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FF07F13C-D6D9-4CFC-9A7B-72629F6D0759}|Assignment3 c\u002B\u002B.vcxproj|solutionrelative:Color.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF07F13C-D6D9-4CFC-9A7B-72629F6D0759}|Assignment3 c\u002B\u002B.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\Color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FF07F13C-D6D9-4CFC-9A7B-72629F6D0759}|Assignment3 c\u002B\u002B.vcxproj|solutionrelative:Color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FF07F13C-D6D9-4CFC-9A7B-72629F6D0759}|Assignment3 c\u002B\u002B.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\colorblob_tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FF07F13C-D6D9-4CFC-9A7B-72629F6D0759}|Assignment3 c\u002B\u002B.vcxproj|solutionrelative:colorblob_tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FF07F13C-D6D9-4CFC-9A7B-72629F6D0759}|Assignment3 c\u002B\u002B.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\Color.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF07F13C-D6D9-4CFC-9A7B-72629F6D0759}|Assignment3 c\u002B\u002B.vcxproj|solutionrelative:Color.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FF07F13C-D6D9-4CFC-9A7B-72629F6D0759}|Assignment3 c\u002B\u002B.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\ColorBlob.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FF07F13C-D6D9-4CFC-9A7B-72629F6D0759}|Assignment3 c\u002B\u002B.vcxproj|solutionrelative:ColorBlob.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF07F13C-D6D9-4CFC-9A7B-72629F6D0759}|Assignment3 c\u002B\u002B.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\ColorBlob.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF07F13C-D6D9-4CFC-9A7B-72629F6D0759}|Assignment3 c\u002B\u002B.vcxproj|solutionrelative:ColorBlob.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF07F13C-D6D9-4CFC-9A7B-72629F6D0759}|Assignment3 c\u002B\u002B.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\Color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF07F13C-D6D9-4CFC-9A7B-72629F6D0759}|Assignment3 c\u002B\u002B.vcxproj|solutionrelative:Color.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Color.cpp",
-              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\Color.cpp",
-              "RelativeDocumentMoniker": "Color.cpp",
-              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\Color.cpp",
-              "RelativeToolTip": "Color.cpp",
-              "ViewState": "AQIAACYAAAAAAAAAAAAswEMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-29T20:25:12.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Color.h",
-              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\Color.h",
-              "RelativeDocumentMoniker": "Color.h",
-              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\Color.h",
-              "RelativeToolTip": "Color.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-29T20:09:31.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ColorBlob.cpp",
+              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\ColorBlob.cpp",
+              "RelativeDocumentMoniker": "ColorBlob.cpp",
+              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\ColorBlob.cpp",
+              "RelativeToolTip": "ColorBlob.cpp",
+              "ViewState": "AQIAALcAAAAAAAAAAAAiwL8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-01T04:32:02.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ColorBlob.h",
               "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\ColorBlob.h",
               "RelativeDocumentMoniker": "ColorBlob.h",
               "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\ColorBlob.h",
               "RelativeToolTip": "ColorBlob.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-04-29T20:08:21.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Color.cpp",
+              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\Color.cpp",
+              "RelativeDocumentMoniker": "Color.cpp",
+              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\Color.cpp",
+              "RelativeToolTip": "Color.cpp",
+              "ViewState": "AQIAACkAAAAAAAAAAADgvzsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T20:25:12.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Color.h",
+              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\Color.h",
+              "RelativeDocumentMoniker": "Color.h",
+              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\Color.h",
+              "RelativeToolTip": "Color.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T20:09:31.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "colorblob_tester.cpp",
               "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\colorblob_tester.cpp",
               "RelativeDocumentMoniker": "colorblob_tester.cpp",
               "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment3\\colorblob_tester.cpp",
               "RelativeToolTip": "colorblob_tester.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-29T20:07:53.668Z",
               "EditorCaption": ""
