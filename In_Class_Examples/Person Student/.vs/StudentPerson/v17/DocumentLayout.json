@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\In_Class_Examples\\Person Student\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2684C5-5F3F-46D8-9A4E-91D46ABCBD0E}|StudentPerson.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\In_Class_Examples\\Person Student\\Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA2684C5-5F3F-46D8-9A4E-91D46ABCBD0E}|StudentPerson.vcxproj|solutionrelative:Student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2684C5-5F3F-46D8-9A4E-91D46ABCBD0E}|StudentPerson.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\In_Class_Examples\\Person Student\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA2684C5-5F3F-46D8-9A4E-91D46ABCBD0E}|StudentPerson.vcxproj|solutionrelative:Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2684C5-5F3F-46D8-9A4E-91D46ABCBD0E}|StudentPerson.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\In_Class_Examples\\Person Student\\Date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA2684C5-5F3F-46D8-9A4E-91D46ABCBD0E}|StudentPerson.vcxproj|solutionrelative:Date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2684C5-5F3F-46D8-9A4E-91D46ABCBD0E}|StudentPerson.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\In_Class_Examples\\Person Student\\person_student_tetser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA2684C5-5F3F-46D8-9A4E-91D46ABCBD0E}|StudentPerson.vcxproj|solutionrelative:person_student_tetser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "person_student_tetser.cpp",
+              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\In_Class_Examples\\Person Student\\person_student_tetser.cpp",
+              "RelativeDocumentMoniker": "person_student_tetser.cpp",
+              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\In_Class_Examples\\Person Student\\person_student_tetser.cpp",
+              "RelativeToolTip": "person_student_tetser.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-25T03:12:52.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.h",
+              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\In_Class_Examples\\Person Student\\Student.h",
+              "RelativeDocumentMoniker": "Student.h",
+              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\In_Class_Examples\\Person Student\\Student.h*",
+              "RelativeToolTip": "Student.h*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-25T03:12:48.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.h",
+              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\In_Class_Examples\\Person Student\\Person.h",
+              "RelativeDocumentMoniker": "Person.h",
+              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\In_Class_Examples\\Person Student\\Person.h",
+              "RelativeToolTip": "Person.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-25T03:12:48.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Date.h",
+              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\In_Class_Examples\\Person Student\\Date.h",
+              "RelativeDocumentMoniker": "Date.h",
+              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\In_Class_Examples\\Person Student\\Date.h",
+              "RelativeToolTip": "Date.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-25T03:12:46.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

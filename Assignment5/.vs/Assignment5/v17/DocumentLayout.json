@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9931D863-FF07-450E-A65C-E5BF5190A964}|Assignment5.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Shape3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9931D863-FF07-450E-A65C-E5BF5190A964}|Assignment5.vcxproj|solutionrelative:Shape3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9931D863-FF07-450E-A65C-E5BF5190A964}|Assignment5.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9931D863-FF07-450E-A65C-E5BF5190A964}|Assignment5.vcxproj|solutionrelative:Shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9931D863-FF07-450E-A65C-E5BF5190A964}|Assignment5.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Shape2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9931D863-FF07-450E-A65C-E5BF5190A964}|Assignment5.vcxproj|solutionrelative:Shape2D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9931D863-FF07-450E-A65C-E5BF5190A964}|Assignment5.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\shape_hierarchy_tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9931D863-FF07-450E-A65C-E5BF5190A964}|Assignment5.vcxproj|solutionrelative:shape_hierarchy_tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9931D863-FF07-450E-A65C-E5BF5190A964}|Assignment5.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Cylinder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9931D863-FF07-450E-A65C-E5BF5190A964}|Assignment5.vcxproj|solutionrelative:Cylinder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9931D863-FF07-450E-A65C-E5BF5190A964}|Assignment5.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9931D863-FF07-450E-A65C-E5BF5190A964}|Assignment5.vcxproj|solutionrelative:Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9931D863-FF07-450E-A65C-E5BF5190A964}|Assignment5.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9931D863-FF07-450E-A65C-E5BF5190A964}|Assignment5.vcxproj|solutionrelative:Triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9931D863-FF07-450E-A65C-E5BF5190A964}|Assignment5.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9931D863-FF07-450E-A65C-E5BF5190A964}|Assignment5.vcxproj|solutionrelative:Circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9931D863-FF07-450E-A65C-E5BF5190A964}|Assignment5.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Box.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9931D863-FF07-450E-A65C-E5BF5190A964}|Assignment5.vcxproj|solutionrelative:Box.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9931D863-FF07-450E-A65C-E5BF5190A964}|Assignment5.vcxproj|C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9931D863-FF07-450E-A65C-E5BF5190A964}|Assignment5.vcxproj|solutionrelative:Sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "shape_hierarchy_tester.cpp",
+              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\shape_hierarchy_tester.cpp",
+              "RelativeDocumentMoniker": "shape_hierarchy_tester.cpp",
+              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\shape_hierarchy_tester.cpp",
+              "RelativeToolTip": "shape_hierarchy_tester.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-25T03:05:04.549Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.h",
+              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Shape.h",
+              "RelativeDocumentMoniker": "Shape.h",
+              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Shape.h",
+              "RelativeToolTip": "Shape.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-22T21:10:05.12Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape2D.h",
+              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Shape2D.h",
+              "RelativeDocumentMoniker": "Shape2D.h",
+              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Shape2D.h",
+              "RelativeToolTip": "Shape2D.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-25T03:14:28.3Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Triangle.h",
+              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Triangle.h",
+              "RelativeDocumentMoniker": "Triangle.h",
+              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Triangle.h",
+              "RelativeToolTip": "Triangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-25T03:08:46.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rectangle.h",
+              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Rectangle.h",
+              "RelativeDocumentMoniker": "Rectangle.h",
+              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Rectangle.h",
+              "RelativeToolTip": "Rectangle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-25T03:05:35.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Circle.h",
+              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Circle.h",
+              "RelativeDocumentMoniker": "Circle.h",
+              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Circle.h",
+              "RelativeToolTip": "Circle.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-25T03:06:45.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shape3D.h",
+              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Shape3D.h",
+              "RelativeDocumentMoniker": "Shape3D.h",
+              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Shape3D.h",
+              "RelativeToolTip": "Shape3D.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-25T03:27:30.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cylinder.h",
+              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Cylinder.h",
+              "RelativeDocumentMoniker": "Cylinder.h",
+              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Cylinder.h",
+              "RelativeToolTip": "Cylinder.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAACVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-25T03:12:37.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sphere.h",
+              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Sphere.h",
+              "RelativeDocumentMoniker": "Sphere.h",
+              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Sphere.h",
+              "RelativeToolTip": "Sphere.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-25T03:11:50.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Box.h",
+              "DocumentMoniker": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Box.h",
+              "RelativeDocumentMoniker": "Box.h",
+              "ToolTip": "C:\\Users\\matts\\Documents\\College\\CSCD_305_C\u002B\u002BPrograming\\CSCD-305-CPlusPlus\\Assignment5\\Box.h",
+              "RelativeToolTip": "Box.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAC1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-25T03:06:16.923Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
